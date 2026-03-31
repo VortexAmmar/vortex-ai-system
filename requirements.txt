@@ -1,4 +1,4 @@
 flask
-requests
 gunicorn
-setuptools
+requests
+setuptools==68.0.0
