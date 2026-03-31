@@ -1,4 +1,4 @@
-flask
-gunicorn
+flask==3.0.0
+gunicorn==21.2.0
 requests
 setuptools==68.0.0
